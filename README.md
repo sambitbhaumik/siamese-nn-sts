@@ -1,5 +1,5 @@
 # Neural Networks Final Project (NLP)
-Course: Neural Networks: Theory and Implementation (WS 2021/22, Universität des Saarlandes)
+Neural Networks: Theory and Implementation (WS 2021/22, Universität des Saarlandes)
 
 Project files contain PyTorch implementations for Siamese Bi-LSTM models for Semantic Text Similarity on the SICK Dataset using FastText embeddings. Also contains Siamese BiLSTM-Transformer Encoder and SBERT fine-tuning implementatons on the STS Data tasks.
 
