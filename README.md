@@ -24,3 +24,17 @@ SBERT Pre-Trained Model:
 [SentenceTransformers](https://www.sbert.net)
 
 Spacy: (https://spacy.io)
+
+Optuna: (https://optuna.org)
+
+## References
+
+[1] Takuya Akiba et al. “Optuna: A next-generation hyperparameter optimization framework”. In:
+Proceedings of the 25th ACM SIGKDD international conference on knowledge discovery &
+data mining. 2019, pp. 2623–2631.
+[2] Nils Reimers and Iryna Gurevych. “Sentence-bert: Sentence embeddings using siamese bertnetworks”.
+In: arXiv preprint arXiv:1908.10084 (2019).
+[3] Alexander M Rush. “The annotated transformer”. In: Proceedings of workshop for NLP open
+source software (NLP-OSS). 2018, pp. 52–60.
+[4] Ashish Vaswani et al. “Attention is all you need”. In: Advances in neural information processing
+systems 30 (2017).
